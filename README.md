@@ -2,10 +2,9 @@
 
 ###### My Stats
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-max809.vercel.app/api?username=m4x809&theme=github_dark" />
+<a href="https://codetime.dev/">
+  <img height=200 align="center" src="https://codetime.dev/api/widgets/donut.svg?uid=29169&days=30&limit=6&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-max809.vercel.app/api/top-langs?username=m4x809&layout=compact&theme=github_dark" />
+<a href="https://codetime.dev/">
+  <img height=200 align="center" src="https://codetime.dev/api/widgets/status.svg?uid=29169&theme=dark&style=detailed&primary=project&secondary=editor" />
 </a>
